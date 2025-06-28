@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm Mohammadreza Nozari
+👋 Hi, I'm Reza Nozari
 ====================================================================================================================================
 
 **Full Stack Developer | .NET | ASP.NET Core | NestJS | Express | React | Angular**​
