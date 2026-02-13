@@ -2,18 +2,25 @@
 
 <div align="center">
   <h3>📖 Full Stack Architecture & Leadership</h3>
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0002.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0003.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0004.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0005.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0006.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0007.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0008.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0009.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0010.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0011.jpg)
-![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0012.jpg)
+  <p><em>Document pages (click to view full size):</em></p>
+  <p>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg" alt="Page 1" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0002.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0002.jpg" alt="Page 2" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0003.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0003.jpg" alt="Page 3" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0004.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0004.jpg" alt="Page 4" width="200" style="margin: 5px;"></a>
+  </p>
+  <p>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0005.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0005.jpg" alt="Page 5" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0006.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0006.jpg" alt="Page 6" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0007.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0007.jpg" alt="Page 7" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0008.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0008.jpg" alt="Page 8" width="200" style="margin: 5px;"></a>
+  </p>
+  <p>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0009.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0009.jpg" alt="Page 9" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0010.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0010.jpg" alt="Page 10" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0011.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0011.jpg" alt="Page 11" width="200" style="margin: 5px;"></a>
+    <a href="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0012.jpg"><img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0012.jpg" alt="Page 12" width="200" style="margin: 5px;"></a>
+  </p>
 </div>
 
 
