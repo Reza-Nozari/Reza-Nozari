@@ -1,4 +1,23 @@
-# Hi there, I'm Reza 👋  
+# Hi there, I'm Reza 👋
+
+<div align="center">
+  <h3>📖 Full Stack Architecture & Leadership</h3>
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0002.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0003.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0004.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0005.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0006.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0007.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0008.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0009.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0010.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0011.jpg)
+![](images/Full_Stack_Architecture_Leadership_pages-to-jpg-0012.jpg)
+</div>
+
+
+
 
 ## 🚀 What I Do  
 I’m a **Technical Lead, Full Stack Developer, and Software Engineer** with professional experience in **.NET** and **JavaScript/TypeScript ecosystems**.  
