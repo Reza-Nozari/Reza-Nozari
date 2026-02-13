@@ -1,5 +1,3 @@
-# Hi there, I'm Reza 👋
-
 <div align="center">
   <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg" width="100%" style="margin: 10px 0;">
   <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0002.jpg" width="100%" style="margin: 10px 0;">
