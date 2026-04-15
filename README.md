@@ -1,11 +1,5 @@
 <div align="center">
   <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg" width="100%" style="margin: 10px 0;">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0002.jpg" width="100%" style="margin: 10px 0;">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0003.jpg" width="100%" style="margin: 10px 0;">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0004.jpg" width="100%" style="margin: 10px 0;">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0010.jpg" width="100%" style="margin: 10px 0;">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0011.jpg" width="100%" style="margin: 10px 0;">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0012.jpg" width="100%" style="margin: 10px 0;">
 </div>
 
 ## 🚀 What I Do
