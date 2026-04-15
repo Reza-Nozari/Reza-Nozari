@@ -38,7 +38,7 @@ I thrive at the intersection of **hands-on coding, system design, and team leade
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mrnozari/)
 - 💻 [GitHub](https://github.com/Reza-Nozari)
-- 📧 Email: dev.nozari@gmail.com
+- 📧 Email: rezanozari.office@gmail.com
 
 ---
 
@@ -46,4 +46,3 @@ I thrive at the intersection of **hands-on coding, system design, and team leade
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Nozari&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reza-Nozari&theme=tokyonight)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reza-Nozari&theme=tokyonight)
