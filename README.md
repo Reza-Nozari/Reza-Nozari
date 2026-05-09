@@ -1,48 +1,135 @@
+# Hi there 👋 I'm Reza Nozari
+
 <div align="center">
-  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg" width="100%" style="margin: 10px 0;">
+  <img src="images/Full_Stack_Architecture_Leadership_pages-to-jpg-0001.jpg" width="100%" />
 </div>
 
-## 🚀 What I Do
+<h3 align="center">
+Senior Software Engineer • Technical Lead • Microservices Architect • AI-Driven Systems Engineer
+</h3>
 
-I’m a **Technical Lead, Full Stack Developer, and Software Engineer** with professional experience in **.NET** and **JavaScript/TypeScript ecosystems**.  
-I love building **scalable, maintainable software** and mentoring teams to deliver high-quality solutions.
-
----
-
-## 🛠 Tech Stack & Expertise
-
-- **Backend**: .NET (C#, ASP.NET Core, EF Core), Node.js, Nest.js
-- **Frontend**: React, Next.js, Angular, Vue
-- **Databases**: SQL Server, PostgreSQL, MySQL, MongoDB, Prisma, Redis
-- **Cloud & DevOps**: Docker, Kubernetes, GitHub Actions, Azure, AWS, Linux, Nginx
-- **Other Skills**: REST APIs, GraphQL, Microservices, Unit & Integration Testing, Swagger/OpenAPI, Agile practices
+<p align="center">
+Building scalable distributed systems, AI-powered platforms, and cloud-native applications with <strong>NestJS</strong>, <strong>.NET Core</strong>, and modern DevOps technologies.
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 About Me
 
-- 🏗️ **SaaS Platform** – Subscription management with Nest.js, Prisma, JWT, Swagger
-- ⚡ **Enterprise App** – Built with ASP.NET Core + React, using clean architecture and CI/CD pipelines
-- 🔒 **Auth & Security** – Secure authentication/authorization with .NET Identity & JWT
+I’m a passionate **Technical Lead** and **Senior Software Engineer** specializing in:
 
----
+* ⚡ High-scale Microservices Architecture
+* 🤖 AI-Driven Applications & LLM Integrations
+* 🧠 Intelligent Automation Systems
+* ☁️ Cloud-Native Infrastructure
+* 🔒 Secure & Scalable API Design
+* 👨‍💻 Engineering Leadership & Mentorship
 
-## 👤 About Me
+I design and build systems that are:
 
-I hold a degree in **Software Engineering** and have years of experience across **enterprise applications, SaaS products, and full-stack systems**.  
-I thrive at the intersection of **hands-on coding, system design, and team leadership**.
-
----
-
-## 📬 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mrnozari/)
-- 💻 [GitHub](https://github.com/Reza-Nozari)
-- 📧 Email: rezanozari.office@gmail.com
+* Scalable
+* Maintainable
+* Fault-tolerant
+* AI-enhanced
+* Production-ready
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Core Expertise
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Nozari&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reza-Nozari&theme=tokyonight)
+## Backend & Distributed Systems
+
+* NestJS
+* ASP.NET Core
+* Node.js
+* TypeScript
+* C#
+* REST APIs
+* GraphQL
+* WebSockets
+* gRPC
+
+## AI Engineering
+
+* OpenAI APIs
+* LLM Integrations
+* AI Agents
+* RAG Architectures
+* AI Workflow Automation
+* Prompt Engineering
+* Vector Databases
+* AI-Powered SaaS Platforms
+
+## Microservices Architecture
+
+* Event-Driven Systems
+* RabbitMQ
+* Kafka
+* Redis
+* CQRS
+* DDD
+* Clean Architecture
+* API Gateway
+
+## DevOps & Cloud
+
+* Docker
+* Kubernetes
+* GitHub Actions
+* Azure
+* AWS
+* Linux
+* Nginx
+* CI/CD Pipelines
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 AI-Powered Automation Platform
+
+Built intelligent workflow automation systems using:
+
+* OpenAI APIs
+* NestJS
+* Vector Search
+* AI Agents
+* Distributed Task Processing
+
+---
+
+### 🏗 Enterprise Microservices Platform
+
+Scalable cloud-native architecture featuring:
+
+* ASP.NET Core
+* NestJS
+* PostgreSQL
+* Redis
+* Docker & Kubernetes
+* Event-Driven Communication
+
+---
+
+### 🔐 Authentication & Identity Service
+
+Production-ready auth infrastructure with:
+
+* JWT & Refresh Tokens
+* RBAC
+* OAuth
+* Secure API Gateway
+* Multi-service authentication
+
+---
+
+# 📈 Engineering Philosophy
+
+I believe modern software engineering is evolving toward intelligent systems powered by AI and scalable architecture.
+
+My focus is building:
+
+* Reliable distributed systems
+* AI-enhanced applications
+* Developer-friendly platforms
+* High-performance backend infrastructures
